@@ -2,7 +2,6 @@ node_modules
 .idea
 /.vscode
 dist
-/build
 /coverage
 test
 .DS_Store
@@ -11,3 +10,4 @@ tmp
 .ng_pkg_build
 jest.debug.config.js
 .tool-versions
+/build/e2e/
