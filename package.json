@@ -28,12 +28,12 @@
     "migrations": "./migrations.json"
   },
   "peerDependencies": {
-    "@nrwl/workspace": "file:/Users/danielji/project/opensource/nx/build/packages/workspace"
+    "@nrwl/workspace": "9.2.4"
   },
   "dependencies": {
-    "@nrwl/cypress": "file:/Users/danielji/project/opensource/nx/build/packages/cypress",
-    "@nrwl/jest": "file:/Users/danielji/project/opensource/nx/build/packages/jest",
-    "@nrwl/linter": "file:/Users/danielji/project/opensource/nx/build/packages/linter",
+    "@nrwl/cypress": "9.2.4",
+    "@nrwl/jest": "9.2.4",
+    "@nrwl/linter": "9.2.4",
     "@angular-devkit/architect": "~0.901.0",
     "@angular-devkit/build-optimizer": "~0.901.0",
     "@angular-devkit/build-webpack": "~0.901.0",
